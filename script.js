@@ -130,6 +130,6 @@ let pageFourAnimation = () => {
 }
 
 pageFourAnimation();
-// pageThreeAnimation();
-// pageTwoAnimation();
-// pageOneAnimation();
+pageThreeAnimation();
+pageTwoAnimation();
+pageOneAnimation();
