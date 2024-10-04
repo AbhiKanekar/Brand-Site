@@ -111,7 +111,6 @@ let pageFourAnimation = () => {
         scrollTrigger: {
             trigger: ".section6",
             scroller: "body",
-            markers: true,
             start: "top 40%"
         }
     })
